@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I made this]]></title>
+        <description><![CDATA[I made this]]></description>
+        <link>https://thegrid.ai/bryan/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 15:48:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bryan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Create the Perfect Online Dating Profile, in 25 Infographics]]></title>
+            <description><![CDATA[<article><h1>How to Create the Perfect Online Dating Profile, in 25 Infographics</h1><p>Every day, millions of singles crawl dating sites and apps, flipping through photos and profiles of potential matches. He's got nice hair! She's a skydiver! He's a pastry chef! Users skim profiles looking for a reason to send a message or dismiss (hint: do not mention your mom or exes).</p><img src="http://www.wired.com/wp-content/uploads/2014/02/2202FF_lovebynumbers_01-1200x630-e1447114131153.jpg"></article>]]></description>
+            <link>http://www.wired.com/2014/02/how-to-create-good-online-dating-profile/#slide-2</link>
+            <guid isPermaLink="false">febdfa5f-321f-4f49-a67f-53ced73a5131</guid>
+            <pubDate>Mon, 16 Nov 2015 15:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/v4MIGUN.jpg">]]></description>
+            <link>https://thegrid.ai/bryan/2af37678-a844-498c-b21f-e5367b1cfcf7/index.html</link>
+            <guid isPermaLink="false">2af37678-a844-498c-b21f-e5367b1cfcf7</guid>
+            <pubDate>Tue, 10 Nov 2015 14:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google's Open Source AI Engine, TensorFlow, Points to a Fast-Changing Hardware World]]></title>
+            <description><![CDATA[<article><h1>Google's Open Source AI Engine, TensorFlow, Points to a Fast-Changing Hardware World</h1><p>In open sourcing its artificial intelligence engine-freely sharing one of its most important creations with the rest of the Internet- Google showed how the world of computer software is changing. These days, the big Internet giants frequently share the software sitting at the heart of their online operations.</p><img src="http://www.wired.com/wp-content/uploads/2015/11/Google-TensorFlow-AI-F-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/11/googles-open-source-ai-tensorflow-signals-fast-changing-hardware-world/</link>
+            <guid isPermaLink="false">ae8d9045-9ffd-4ccc-a5bf-7062e5aa97a0</guid>
+            <pubDate>Tue, 10 Nov 2015 14:04:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
